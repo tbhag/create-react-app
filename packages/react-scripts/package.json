@@ -1,10 +1,10 @@
 {
   "name": "tbhag-react-scripts",
   "version": "0.1.0",
-  "description": "tbhags configuration and scripts for Create React App.",
+  "description": "(3.0.0) tbhags configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tbhag/create-react-app.git",
+    "url": "https://github.com/tbhag/tbhag-create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/tbhag/create-react-app/issues"
+    "url": "https://github.com/tbhag/tbhag-create-react-app/issues"
   },
   "files": [
     "bin",
